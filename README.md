@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/KevinBolanosDev/qr-code-frontend-mentor]
+- Live Site URL: [https://kevinbolanosdev.github.io/qr-code-frontend-mentor/]
 
 ## My process
 
